@@ -1,3 +1,3 @@
 # mySite
 
-(My Link here)(https://jlife24.github.io/cv/)
+(My Link here)(https://jlife24.github.io/mySite/
